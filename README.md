@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Python, Java, Kotlin, C# and Rust (I wrote hello world twice!) developer
+## Python, Java, Kotlin, C# and Rust developer
 
 <p align="center">
   <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/795651331721265153?idleMessage=Slacking&theme=dark&borderRadius=15px&hideBadges=true" height=200>
